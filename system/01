@@ -1,0 +1,2 @@
+if you write this command in the terminal, it will display which version of debian you have:
+cat /etc/debian_version

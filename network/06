@@ -1,0 +1,9 @@
+Open up a new finder window. Click Go->Go To Folder...
+Type "/etc/resolv.conf" and then press Go.
+A file will be selected, right click on it and press Get Info.
+In the window you can now see "Original: /private/var/run/resolv.conf".
+You can now click Go->Go To Folder... and type the path you just found and press enter.
+A file will be selected and if you right click on it and choose More Info,
+you will see the path under "General:" after "Where:".
+So the complete path is /private/var/run/resolv.conf
+10.51.1.253

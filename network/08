@@ -1,0 +1,13 @@
+Open a terminal and type:
+whois slash16.org | grep "Name Server"
+
+Name Server: NS-1236.AWSDNS-26.ORG
+Name Server: NS-144.AWSDNS-18.COM
+Name Server: NS-686.AWSDNS-21.NET
+Name Server: NS-1989.AWSDNS-56.CO.UK
+Name Server: ns-144.awsdns-18.com
+Name Server: ns-1989.awsdns-56.co.uk
+Name Server: ns-1236.awsdns-26.org
+Name Server: ns-686.awsdns-21.net
+
+This is the output and you can see here that the provider is AWS, which stands for Amazon Web Services.

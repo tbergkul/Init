@@ -1,0 +1,4 @@
+163.172.250.13
+163.172.250.12
+
+nslookup 42.fr | grep "Address: " | cut -d' ' -f 2
